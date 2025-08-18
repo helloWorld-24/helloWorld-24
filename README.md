@@ -1,16 +1,25 @@
-## Hi there 👋
+# Java Full Stack Web Application
 
-<!--
-**helloWorld-24/helloWorld-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full stack web application built using **Spring Boot** (backend) and **React.js** (frontend), showcasing CRUD operations, RESTful API integration, and MySQL database connectivity. Designed following MVC architecture and best practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Backend** — Java, Spring Boot, Spring MVC, Spring Data JPA  
+- **Frontend** — React.js, HTML5, CSS3, JavaScript  
+- **Database** — MySQL (JDBC/Hibernate)  
+- **Tools** — Maven, Git, VS Code, IntelliJ IDEA, Postman
+
+---
+
+## ✨ Features
+
+- User-friendly frontend developed with React
+- REST API-based communication between frontend and backend
+- Complete CRUD support (Create, Read, Update, Delete)
+- Validation, Exception Handling, and Layered Architecture
+- Responsive UI using Bootstrap
+
+
+
