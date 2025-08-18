@@ -8,7 +8,7 @@ A full stack web application built using **Spring Boot** (backend) and **React.j
 
 - **Backend** — Java, Spring Boot, Spring MVC, Spring Data JPA  
 - **Frontend** — React.js, HTML5, CSS3, JavaScript
-- **Technology** —  DBC, JSP, Servlet
+- **Technology** —  JDBC, JSP, Servlet
 - **Database** — MySQL (JDBC/Hibernate)  
 - **Tools** — Maven, Git, VS Code, IntelliJ IDEA, Postman
 
