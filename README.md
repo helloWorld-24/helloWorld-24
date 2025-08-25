@@ -1,4 +1,4 @@
-# Java Full Stack Web Application
+# Java Full Stack 
 
 A full stack web application built using **Spring Boot** (backend) and **React.js** (frontend), showcasing CRUD operations, RESTful API integration, and MySQL database connectivity. Designed following MVC architecture and best practices.
 
