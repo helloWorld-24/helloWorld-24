@@ -24,7 +24,7 @@ A full stack web application built using **Spring Boot** (backend) and **React.j
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
     </a>
@@ -49,6 +49,6 @@ A full stack web application built using **Spring Boot** (backend) and **React.j
     <a href="https://spring.io/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
     </a>
-</p>
+</div>
 
 
